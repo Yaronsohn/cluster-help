@@ -5,6 +5,7 @@
  */
 
 const path = require('path');
+const cluster = require('cluster');
 
 global.__appName = '';
 

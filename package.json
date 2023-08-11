@@ -1,6 +1,6 @@
 {
   "name": "@yaronsohn/cluster-helper",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Helper library for nodejs cluster",
   "main": "index.js",
   "scripts": {
