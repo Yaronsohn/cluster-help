@@ -1,0 +1,19 @@
+{
+  "name": "@yaronsohn/cluster-log",
+  "version": "1.0.0",
+  "description": "Helper library for nodejs cluster",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yaronsohn/cluster-helper.git"
+  },
+  "author": "Yaron Aronsohn",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Yaronsohn/cluster-helper/issues"
+  },
+  "homepage": "https://github.com/Yaronsohn/cluster-helper#readme"
+}
