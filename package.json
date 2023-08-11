@@ -1,5 +1,5 @@
 {
-  "name": "@yaronsohn/cluster-log",
+  "name": "@yaronsohn/cluster-helper",
   "version": "1.0.1",
   "description": "Helper library for nodejs cluster",
   "main": "index.js",
