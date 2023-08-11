@@ -21,5 +21,5 @@ for (const i = 1; i < process.argv.length; i++) {
 
 const __log = console.log;
 console.log = function log(msg) {
-  __log(`${global.__appName}(${process.pid}): ${cluster.isPrimary ? 'PRIMARY' : 'WORKER'}: ${msg}`);
+  __log(`${global.__appName}(${process.pid}, ${cluster.isPrimary ? 'PRIMARY' : 'WORKER'}): ${msg}`);
 }
